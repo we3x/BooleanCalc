@@ -1,0 +1,2 @@
+# BooleanCalc
+Simple boolean calculator
